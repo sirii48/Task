@@ -1,0 +1,12 @@
+Project Overview: Tic-Tac-Toe Game
+This project is a classic, two-player Tic-Tac-Toe (also known as Noughts and Crosses)
+game implemented as a single-page web application.
+The game utilizes standard web technologies: HTML establishes the 3x3 grid structure;
+CSS styles the board, cells, and player markers ('X' and 'O') for visual appeal;
+and JavaScript contains the core game logic. The JavaScript manages the game state,
+tracks the current player's turn, handles user input via cell clicks, and critically,
+performs the win-condition checks across all rows, columns, and diagonals.
+It also includes logic to declare a draw if all cells are filled without a winner.
+The project offers a simple, functional interface with a reset button to easily start a new game,
+making it an excellent demonstration of front-end development fundamentals, event handling, and conditional logic.
+
